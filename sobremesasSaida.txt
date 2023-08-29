@@ -1,0 +1,4 @@
+Pedido Solicitado: 
+ Produto: Nome = Leite condesado com Chocolate e creme de leite, valor = R$8.0, codigo = 7 -- Especificidade: quantidade = 150.0 gramas, doce = Sim, informacoes = Sorvete de Ovo Maltine
+ Produto: Nome = Frango com massa de trigo e legumes, valor = R$10.0, codigo = 8 -- Especificidade: quantidade = 300.0 gramas, doce = Não, informacoes = Empadão
+ Produto: Nome = Chocolate com pedaços de biscoito e amora, valor = R$10.0, codigo = 9 -- Especificidade: quantidade = 300.0 gramas, doce = Sim, informacoes = Torta Doce

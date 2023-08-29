@@ -1,0 +1,4 @@
+Pedido Solicitado: 
+ Produto: Nome = Refrigerante, valor = R$4.5, codigo = 1 -- Especificidade: gelada = Sim, tamanho = 350.0 ml, marca = Coca-Cola
+ Produto: Nome = Whisky, valor = R$20.0, codigo = 2 -- Especificidade: gelada = Não, tamanho = 50.0 ml, marca = Jack Daniels Old 7
+ Produto: Nome = Energético, valor = R$10.0, codigo = 3 -- Especificidade: gelada = Sim, tamanho = 350.0 ml, marca = RedBull

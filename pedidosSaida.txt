@@ -1,0 +1,13 @@
+Pedido Solicitado: 
+descricao = Pedido 1, data = 2023-08-26T20:53:37.588, web = Não
+ Produto: Nome = Tomate, Cebola, Pepino, alface, Manga, Batata Doce, valor = R$15.5, codigo = 4 -- Especificidade: peso = 350.0 gramas, vegano = Sim, ingredientes = salada
+ Produto: Nome = Arroz Pasterizado, Peito de frango com molho Barbecue e alho Imerso ao queijo, valor = R$20.0, codigo = 5 -- Especificidade: peso = 800.0 gramas, vegano = Não, ingredientes = Arroz com Galinha
+ Produto: Nome = Molho mexicano com Carne de Filé em tiras e Carne de Porco ao molho Italiano, valor = R$50.0, codigo = 6 -- Especificidade: peso = 600.0 gramas, vegano = Não, ingredientes = Filé de Posco e Alcatra
+descricao = Pedido 2, data = 2023-08-26T20:53:37.588, web = Não
+ Produto: Nome = Tomate, Cebola, Pepino, alface, Manga, Batata Doce, valor = R$15.5, codigo = 4 -- Especificidade: peso = 350.0 gramas, vegano = Sim, ingredientes = salada
+ Produto: Nome = Arroz Pasterizado, Peito de frango com molho Barbecue e alho Imerso ao queijo, valor = R$20.0, codigo = 5 -- Especificidade: peso = 800.0 gramas, vegano = Não, ingredientes = Arroz com Galinha
+ Produto: Nome = Molho mexicano com Carne de Filé em tiras e Carne de Porco ao molho Italiano, valor = R$50.0, codigo = 6 -- Especificidade: peso = 600.0 gramas, vegano = Não, ingredientes = Filé de Posco e Alcatra
+descricao = Pedido 3, data = 2023-08-26T20:53:37.588, web = Não
+ Produto: Nome = Tomate, Cebola, Pepino, alface, Manga, Batata Doce, valor = R$15.5, codigo = 4 -- Especificidade: peso = 350.0 gramas, vegano = Sim, ingredientes = salada
+ Produto: Nome = Arroz Pasterizado, Peito de frango com molho Barbecue e alho Imerso ao queijo, valor = R$20.0, codigo = 5 -- Especificidade: peso = 800.0 gramas, vegano = Não, ingredientes = Arroz com Galinha
+ Produto: Nome = Molho mexicano com Carne de Filé em tiras e Carne de Porco ao molho Italiano, valor = R$50.0, codigo = 6 -- Especificidade: peso = 600.0 gramas, vegano = Não, ingredientes = Filé de Posco e Alcatra
